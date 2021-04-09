@@ -60,6 +60,8 @@ body {
     color: #f2f2e2;
 
     transition: .1s linear;
+
+    cursor: pointer;
 }
 
 .icons {
